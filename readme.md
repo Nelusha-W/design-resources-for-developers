@@ -438,6 +438,7 @@
 | [ROBOHASH](https://robohash.org/) | Generate unique images from any text |
 | [Tabbied](https://tabbied.com/) | Create and customize minimally generated patterns/artwork to use for background images, print and other projects. |
 | [Haikei](https://app.haikei.app/) | An awesome multishape web app. |
+| [3D Bay](https://clouddevs.com/3dbay/) | A collection of free, high quality, 3D images |
 
 
 <div align="right">
